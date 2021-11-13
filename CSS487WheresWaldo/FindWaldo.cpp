@@ -8,8 +8,8 @@ using namespace cv;
 
 int main()
 {
-	Mat waldoPuzzle = imread("waldo_puzzle_01.png");
-	Mat waldoTemplate = imread("waldo_template_01.png");
+	Mat waldoPuzzle = imread("waldo_puzzle_02.png");
+	Mat waldoTemplate = imread("waldo_template_02.png");
 
 	Mat result = waldoPuzzle.clone();
 
