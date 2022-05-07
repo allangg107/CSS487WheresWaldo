@@ -3,7 +3,6 @@
 // Functionality: given an image of "Where's Waldo," Waldo is located and boxed
 // Assumptions: 
 //	Using a "Where's Waldo" image as well as a template image for Waldo
-// Authors: Allan Genari Gaarden, Tommy Ni, Joshua Medvinsky
 
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/highgui.hpp"
